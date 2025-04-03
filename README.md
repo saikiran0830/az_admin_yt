@@ -1,2 +1,2 @@
 # az_admin_yt
-To store Azure Admin training related files
+To store Azure Admin training/course related files
